@@ -1,0 +1,8 @@
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationCPTR465A3\WindowsFormsApplicationCPTR465A3\bin\Debug\WindowsFormsApplicationCPTR465A3.exe
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationCPTR465A3\WindowsFormsApplicationCPTR465A3\bin\Debug\WindowsFormsApplicationCPTR465A3.pdb
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationCPTR465A3\WindowsFormsApplicationCPTR465A3\obj\Debug\WindowsFormsApplicationCPTR465A3.csprojResolveAssemblyReference.cache
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationCPTR465A3\WindowsFormsApplicationCPTR465A3\obj\Debug\WindowsFormsApplicationCPTR465A3.baseForm.resources
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationCPTR465A3\WindowsFormsApplicationCPTR465A3\obj\Debug\WindowsFormsApplicationCPTR465A3.Properties.Resources.resources
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationCPTR465A3\WindowsFormsApplicationCPTR465A3\obj\Debug\WindowsFormsApplicationCPTR465A3.csproj.GenerateResource.Cache
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationCPTR465A3\WindowsFormsApplicationCPTR465A3\obj\Debug\WindowsFormsApplicationCPTR465A3.exe
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationCPTR465A3\WindowsFormsApplicationCPTR465A3\obj\Debug\WindowsFormsApplicationCPTR465A3.pdb
